@@ -4,3 +4,8 @@
 ```
 dotnet restore
 ```
+
+### To run application
+```
+dotnet run
+```
